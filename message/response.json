@@ -1,0 +1,13 @@
+{
+  "wait": "Ｌｏａｄｉｎｇ．．．",
+  "error": {
+    "Iv": "Berikan Link Yang Sesuai Dengan Command",
+    "api": "Maaf, Fitur Sedang Eror!, Cobalah Lagi"
+  },
+  "OnlyGrup": "Perintah Ini Hanya Untuk Grup",
+  "OnlyPM": "Perintah ini hanya Untuk Di Private Message",
+  "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+  "BotAdmin": "Bot Harus menjadi admin",
+  "OnlyOwner": "Kamu Bukan Pemilik Bot Ini, Command Ini Khusus Pemilik Aku:(",
+  "OnlyPrem": "Perintah Ini Khusus Member Premium Kak, Beli Premium Dengan Klik Link Ini -> wa.me/6282189975711"
+}

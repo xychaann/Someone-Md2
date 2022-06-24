@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6282189975711@s.whatsapp.net"],
+  "ownerName": ["XyChan"],
+  "botName": "Someone-Md",
+  "sessionName": "session",
+  "pathimg": "./media/XyChan.jpg",
+  "gamewaktu": 90,
+  "limitCount": 30,
+  "gcount": {
+	"prem": 100000000000,
+	"user": 15
+  }
+}
